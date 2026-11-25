@@ -1,0 +1,11 @@
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100    28    0    28    0     0  17021      0 --:--:-- --:--:-- --:--:-- 28000
+HTTP/1.1 404 Not Found
+Content-Type: application/json
+Date: Wed, 25 Nov 2026 17:35:10 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Transfer-Encoding: chunked
+
+{"result":"ERROR_NOT_FOUND"}
