@@ -15,6 +15,6 @@
 Хавсралт:      screenshots/bug-08.png
 Олдсон аялал:  Fed-Ex (өгөгдлийн зам)
 
-## Скриншот
+## Зураг
 
 ![BUG-08](../screenshots/bug-08.png)

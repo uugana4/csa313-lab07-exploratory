@@ -15,6 +15,6 @@
 Хавсралт:      screenshots/bug-10.png · evidence/bug-10-curl.txt
 Олдсон аялал:  Supermodel (GUI) ба Saboteur (curl)
 
-## Скриншот
+## Зураг
 
 ![BUG-10](../screenshots/bug-10.png)

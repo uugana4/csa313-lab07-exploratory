@@ -15,6 +15,6 @@
 Хавсралт:      screenshots/bug-04.png
 Олдсон аялал:  Couch Potato (хоосон оролт)
 
-## Скриншот
+## Зураг
 
 ![BUG-04](../screenshots/bug-04.png)
